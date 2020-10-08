@@ -1,0 +1,9 @@
+query FeedResult {
+    peoples {
+        id
+        name
+        area
+        gender
+        image
+    }
+}
